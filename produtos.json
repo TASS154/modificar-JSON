@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "teclado",
+    "preço": "18,99",
+    "quantidade": "234"
+  },
+  {
+    "nome": "mouse",
+    "preço": "17,99",
+    "quantidade": "193"
+  },
+  {
+    "nome": "monitor",
+    "preço": "256,49",
+    "quantidade": "63"
+  },
+  {
+    "nome": "mousepad",
+    "preço": "14,00",
+    "quantidade": "133"
+  },
+  {
+    "nome": "cadeira",
+    "preço": "56,99",
+    "quantidade": "24"
+  },
+  {
+    "nome": "cooler",
+    "preço": "24,60",
+    "quantidade": "156"
+  }
+]
